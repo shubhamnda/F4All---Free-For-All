@@ -39,17 +39,19 @@ To fetch movies, you need a **TMDb API Key**:
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54215ea8-be17-43ac-9690-9c77241c57db" width="30%">
-  <img src="https://github.com/user-attachments/assets/114d4af5-e018-47c2-9cbe-ea9121615e40" width="30%">
-  <img src="https://github.com/user-attachments/assets/60bfe024-a2fc-413e-8be8-6703a1880501" width="30%">
+ 
+ <img src= "https://github.com/user-attachments/assets/3f463664-9565-4b1c-a2f1-8a7f86642c61" width="30%">
+ <img src="https://github.com/user-attachments/assets/c6f27f9c-e476-42d2-a20b-adedc4010dc1" width="30%">
+ <img src="https://github.com/user-attachments/assets/2b8d4b6c-5567-4c5e-bd9c-17c7661a33c1" width="30%">
+
 </p>
-## 🎥 Video
 
 
 
 
 
-https://github.com/user-attachments/assets/3eb389bf-a38c-4fe4-b12c-026a907da8ae
+
+
 
 
 
