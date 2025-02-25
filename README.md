@@ -17,7 +17,7 @@ Welcome to **Movie App**, a SwiftUI-based application that allows users to **sea
 - **Combine** – For handling asynchronous API calls.
 - **TMDb API** – Fetches movie data.
 - **Your Custom Player** – Embed your Custom video player for streaming.
-- **WKWebView** – Renders the Videasy player inside the app.
+- **WKWebView** – Renders the Custom Video player inside the app.
 
 ## 🔧 Installation
 1. **Clone the repository**
