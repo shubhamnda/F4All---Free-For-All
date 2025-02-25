@@ -1,3 +1,5 @@
+
+
 # 🎬 Movie App
 ## Why I Created This 🤔
  Was tired of the ads, so I decided to create my own app :)
@@ -46,7 +48,9 @@ To fetch movies, you need a **TMDb API Key**:
 
 </p>
 
+## 🎥 Video
 
+https://github.com/user-attachments/assets/e1c13ec0-31c3-49f3-823f-91585bf7ffc4
 
 
 
